@@ -1,5 +1,5 @@
 # Fundamentals of ExpressJs
--Middleware
--URI
--Validations
--Upload File and more
+- Middleware
+- URI
+- Validations
+- Upload File and more
